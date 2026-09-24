@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - educational
 directors_cut: https://itch.io/embed-upload/14704737?color=000000
 video: https://youtu.be/kjBiUiCPI24
 # See github.com/js13kGames/hello-world for supported frontmatter
